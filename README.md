@@ -1,8 +1,8 @@
-# Hey there 👋!
+# Hello fellow wanderer 👋!
 ---
-## It's Ahmad Thaha Hussain :) ! UX Designer at [XandY Learning](https://xandylearning.com/)
+## It's Ahmad Thaha Hussain ! UX Designer at [XandY Learning](https://xandylearning.com/) :)
 
 - Practicing **Design Engineering** & **Creative Direction** through my works whether professional or personal.
 - I always focus on creating unique products/experiences that are user-centric & high value in nature.
 
-Let me know if you are working in any crazy projects!
+Let me know if you are working in any crazy projects! ;)
