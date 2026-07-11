@@ -1,6 +1,6 @@
-<img width="1584" src="me.png">
+<img width="1584" height="600" src="me.png">
 
-# Hey there!
+# Hey there 👋!
 ---
 ## Ahmad Thaha Hussain here! UX Designer at XandY Learning
 I focus on creating unique products/experiences that are user-centric & high value in nature. 
