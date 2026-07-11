@@ -1,5 +1,3 @@
-<img width="1584" height="600" src="me.png">
-
 # Hey there 👋!
 ---
 ## It's Ahmad Thaha Hussain :) ! UX Designer at [XandY Learning](https://xandylearning.com/)
