@@ -1,4 +1,4 @@
-<img src="me.png">
+<img width="1584" src="me.png">
 
 # Hey there!
 ---
