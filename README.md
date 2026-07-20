@@ -1,4 +1,4 @@
-<span style="font-family: 'Courier New', monospace;">
+<pre>
 
 # Hello there, fellow wanderer 👋!
 
@@ -13,4 +13,4 @@
 - Creative and Animation Direction (Cold Jump)
 ---
 Let me know if you are working in any crazy projects! ;)
-</span>
+</pre>
